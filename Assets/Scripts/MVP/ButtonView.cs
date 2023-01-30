@@ -12,7 +12,6 @@ namespace MVP
         public void OnButtonClicked()
         {
             SystemUtility.SafeCall(OnButtonClickedListener);
-            
         }
     }
 }
